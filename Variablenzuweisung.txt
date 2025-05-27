@@ -1,0 +1,41 @@
+Identifizierungsvariablen:
+SERIAL
+SAMPLE
+IDENT
+COUNTRY
+PERSID
+DIARY
+YEAR
+PERNUM
+DAY
+MONTH
+
+Mögliche Variablen:
+HHLDSIZE Number of people in household
+NCHILD Number of children aged under 18 in household
+FAMSTAT Individual level family status (if individual has children inside the household
+AGE
+SEX
+CIVSTAT Diarist is in a couple
+EDTRY Harmonized highest level of education
+EDUCA Education-original study codes
+EMP Employed
+WORKHRS Hours paid work last week including overtime
+RETIRED Retirement status
+INCOME Total household income grouped
+INCORIG Original household income
+PROPWT Proposed weight
+DIARYTYPE Diary type (full or light)
+BADCASE Bad case
+
+Aktivitätsvariablen:
+EPNUM
+CLOCKST
+START
+END
+TIME
+MAIN
+SEC
+ELOC
+INOUT
+ICT
